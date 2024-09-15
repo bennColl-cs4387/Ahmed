@@ -24,7 +24,7 @@ Class will follow a familiar schedule (all times approximate):
 
 ### Schedule (see grid)
 
-Weekly Grid: Open Source Software in Practice (CS4387)
+Weekly Grid: [Open Source Software in Practice CS4387](https://docs.google.com/spreadsheets/d/1yWwf-fh3PES6CIb6Tr_0IHoXCXhu7YPrcLnqztgNYm0/edit?gid=0#gid=0)
 
 ## Grading Policies
 
