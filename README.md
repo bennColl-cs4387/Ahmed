@@ -1,5 +1,5 @@
 # Syllabus for Open Source Software in Practice class (CS4387) 
-## table of content
+## Table of content
 - [Syllabus](https://github.com/bennColl-cs4387/Ahmed-Syllabus/blob/main/Syllabus.md) 
 - [Grid](https://github.com/bennColl-cs4387/Ahmed-Syllabus/blob/main/Class%20Grid.md)
 
