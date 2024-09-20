@@ -1,0 +1,171 @@
+    1 .zshrc
+    2  ls
+    3  zsh Agent
+    4  ls
+    5  cd
+    6  cd Agent
+    7  cat Agent
+    8  ls
+    9  exit
+   10  $ eval "$(ssh-agent -s)"\n
+   11  exec ssh-agent zsh
+   12  $ eval "$(ssh-agent -s)"\n> Agent pid 59566
+   13  $ eval "$(ssh-agent -s)"
+   14  sudo $ eval "$(ssh-agent -s)"
+   15  sudo -s -H
+   16  ls ~/.ssh
+   17  cat ~/.ssh/id_ed25519
+   18  cat ~/.ssh/id_ed25519.pub
+   19  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+   20  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"\n\n
+   21  ls
+   22  less
+   23  ls
+   24  ls
+   25  mkdir git
+   26  ls
+   27  cd git
+   28  ls
+   29  $ git clone https://github.com/nivbend/gitstery.git
+   30   git clone https://github.com/nivbend/gitstery.git
+   31  cd gitstery
+   32  ls
+   33  cd instructions.txt
+   34  less instructions.txt
+   35  ls
+   36  less instructions.txt
+   37  git checkout gtpd-archive
+   38  ls
+   39  cat instructions.txt
+   40  ls
+   41  git checkout master
+   42  ls
+   43  less residents.txt
+   44  ls
+   45  git checkout detectives/kpumbinner
+   46  ls
+   47  cd evidence
+   48  ls
+   49  less access.log 
+   50  git checkout investigations
+   51  ls
+   52  ls
+   53  cd. 
+   54  cd.. 
+   55  cd .
+   56  ;s
+   57  cd..
+   58  cd.
+   59  cd ..
+   60  ls
+   61  cat 624526
+   62  ls
+   63  git checkout main
+   64  ls
+   65  git checkout gitstery
+   66  git checkout master
+   67  git log\n
+   68  git log --oneline\n
+   69  git checkout 908ca6a\n
+   70  ls -la
+   71  cat REAMME.md
+   72  cat README.md
+   73  cat instructions.txt
+   74  cat residents.txt
+   75  ls 
+   76  ls evidence
+   77  ;s
+   78  ls
+   79  cd evidence
+   80  ls
+   81  ls
+   82  ls -la
+   83  git checkout gtpd-archive
+   84  ls
+   85  cd ..
+   86  ls
+   87  git checkout atpd-archive
+   88   git checkout gtpd-archive
+   89  ls
+   90  git log --since="2019-07-20" --until="2019-07-27"\n
+   91  git show <467d37e7086e724bf10b399a663c48d5f6950b6d>
+   92  git show 467d37e7086e724bf10b399a663c48d5f6950b6d
+   93  git show 467d37e7086e724bf10b399a663c48d5f6950b6d
+   94  git show 467d37e7086e724bf10b399a663c48d5f6950b6d
+   95  ls
+   96  git checkout detectives/kpumbinner\n
+   97  ls
+   98  ls
+   99  cat evidence/access.log\n
+  100  git tag
+  101  git checkout street/badgers_dene\n
+  102  git log -n 86\n
+  103  git log -n 86\n
+  104  git log -n 87
+  105  git log -n 88
+  106  ls
+  107  git log -n 88
+  108  echo "Dolores Wholfump" | git hash-object --stdin | grep -iq -f /dev/stdin <(git show solution) && echo 'You found the murderer!' || echo 'No cigar, chief... Try again.'\n
+  109  ls
+  110  git blame residents.txt
+  111  echo "Dolores Wholfump" | git hash-object --stdin | grep -iq -f /dev/stdin <(git show solution) && echo 'You found the murderer!' || echo 'No cigar, chief... Try again.'
+  112  git show 167b37804e625695850571d3c41895ecb461f288\n
+  113  git diff fd4322f58237a13487958897a8bc1e6307ffbdae 167b37804e625695850571d3c41895ecb461f288\n
+  114  git ls-tree -r 167b37804e625695850571d3c41895ecb461f288\n
+  115  cat investigate\n
+  116  git cat-file -t 967402d60e7162deb743e3b695961262bd228897\n
+  117  git show 967402d60e7162deb743e3b695961262bd228897\n+
+  118  git cat-file -p 967402d60e7162deb743e3b695961262bd228897\n
+  119  echo "Henry Baker" | git hash-object --stdin | grep -iq -f /dev/stdin <(git show solution) && echo 'You found the murderer!' || echo 'No cigar, chief... Try again.'\n
+  120  git log --follow investigate\n
+  121  git diff fd4322f58237a13487958897a8bc1e6307ffbdae 167b37804e625695850571d3c41895ecb461f288 -- investigate\n
+  122  git cat-file -p 6ca2c651e9e87a38db96ee567d8152328b14c264\n
+  123  git cat-file -p 5d2ad9faa9f1321268252dc7768d9bcf9571275f\n 
+  124  echo "Hosmer Angel" | git hash-object --stdin | grep -iq -f /dev/stdin <(git show solution) && echo 'You found the murderer!' || echo 'No cigar, chief... Try again.'
+  125  echo "Mr. Hosmer Angel" | git hash-object --stdin | grep -iq -f /dev/stdin <(git show solution) && echo 'You found the murderer!' || echo 'No cigar, chief... Try again.'
+  126  echo "James Windibank" | git hash-object --stdin | grep -iq -f /dev/stdin <(git show solution) && echo 'You found the murderer!' || echo 'No cigar, chief... Try again.'
+  127  git grep "Windibank"\n
+  128  git grep Windibank\n
+  129  git log -p -S "Windibank"\n
+  130  $ open ~/.ssh/config\n
+  131  bash
+  132  ls
+  133  cd git
+  134  \ls
+  135  cd gitstery
+  136  ls
+  137  git gitstery
+  138  checkout gitstery
+  139  git
+  140  ls
+  141  cat residents.txt
+  142  checkout investigate
+  143  cd ..
+  144  ls
+  145  cd .. 
+  146  ls
+  147  cd git
+  148  ls
+  149  checkout gitstery
+  150  cd gitstery
+  151  checkout investigate
+  152  git checkout gtpd-archive
+  153  ls
+  154  git checkout master
+  155  ls
+  156  git checkout gtpd-archive 
+  157  git log
+  158  git checkout detectives/kpumbinner
+  159  git log
+  160  git blame access.log | grep BACKDOOR_332
+  161  cd evidence/
+  162  ls
+  163  git blame access.log | grep BACKDOOR_332
+  164  cd..
+  165  cd .
+  166  cd ..
+  167  git tag -l | grep "tamworth"
+  168  git checkout street/beaconside
+  169  git li=og
+  170  git log
+  171  echo "Cosmo Siwkonk" | git hash-object --stdin | grep -iq -f /dev/stdin <(git show solution) && echo 'You found the murderer!' || echo 'No cigar, chief... Try again.'
