@@ -7,6 +7,9 @@
 ### HW-2 
 - [A Git Murder Mystery](https://github.com/bennColl-cs4387/Ahmed-Syllabus/tree/main/A%20Git%20Murder%20Mystery)
 
+### HW-3
+- [CodeBases I would like to work on](https://github.com/bennColl-cs4387/Ahmed-Syllabus/tree/main/HW3%20Codebases)
+
 ## Links 
 - [Syllabus](https://docs.google.com/document/d/10oSBZbcdeVWcwKRMsuEoegaglVMfXxisCKBqXi1y7dg/edit#heading=h.wkbtxxjrjn87)
 - [Grid](https://docs.google.com/spreadsheets/d/1yWwf-fh3PES6CIb6Tr_0IHoXCXhu7YPrcLnqztgNYm0/edit?gid=0#gid=0)
