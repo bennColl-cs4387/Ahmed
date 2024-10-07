@@ -5,10 +5,11 @@
 
 #### Build Process:
 To begin, I forked the repository and cloned it locally using `git clone`. I ensured that the .NET SDK was installed, following the instructions on the [.NET SDK download page](https://dotnet.microsoft.com/download).
-Thank god for microsoft as .NET is backword compatible and it deosn't matter what version I am running, for refrence I am running version (v8.0.401) LTS
+Thank god for Microsoft as .NET is backward compatible and it deosn't matter what version is running. For reference I am running version (v8.0.401) LTS
 Once set up, I navigated to the project folder and ran the build command using `dotnet build`, which successfully compiled the project.
 
-No major errors during the process. 
+No errors during the process. 
+
 After the build, I attempted to run the tests included in the repository by using `dotnet test`, but I noticed that the documentation didn't clearly explain how to run or interpret the test results.
 
 #### What Went Well:
