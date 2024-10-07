@@ -20,9 +20,10 @@ The major area where I encountered issues was in running the tests. While the pr
 Another minor issue was the lack of a clear explanation for first-time users on how to install the .NET SDK. While experienced developers might find this intuitive, newcomers may struggle without explicit instructions, me included.
 
 #### Suggestions for Improving Build Documentation:
-1. **Add a section on running tests**: It would be helpful to include a dedicated section on how to run the tests, especially for developers who are new to the .NET ecosystem. A few lines in the README or a separate `CONTRIBUTING.md` file explaining how to execute `dotnet test` and interpret the results would improve the onboarding experience for new developers.
+I don't think there should be any changes that will have a big difference other than making the git beginner-friendly. The Project does need it's own Contributing file as the READ ME is becoming very long. Here are some minor changes I am proposing. 
+1. **Adding a section on running tests**: It would be helpful to include a dedicated section on how to run the tests, especially for developers who are new to the .NET ecosystem. A few lines in the README or a separate `CONTRIBUTING.md` file explaining how to execute `dotnet test` and interpret the results would improve the onboarding experience for new developers.
    
-2. **Add details on the project's structure**: Including a brief explanation of the project's folder structure (e.g., what each folder contains) would help new contributors navigate the codebase more efficiently. This would reduce the learning curve, this prokect is small and this might not make sense but projects get big out of nowhere so better to do it now when things are small. 
+2. **Adding details on the project's structure**: Including a brief explanation of the project's folder structure (e.g., what each folder contains) would help new contributors navigate the codebase more efficiently. This would reduce the learning curve, this project is small and this might not make sense but projects get big out of nowhere so it is better to do it now when things are small. 
 
 #### Updated Documentation Suggestion:
 Here's a sample update to the project's README:
