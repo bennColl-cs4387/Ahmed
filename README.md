@@ -13,8 +13,12 @@
 ### HW-4
 - [Building from Source](https://github.com/bennColl-cs4387/Ahmed-Syllabus/tree/main/HW4%20Building%20from%20Source)
 
+### HW-5
+- [Essay 1]((https://github.com/bennColl-cs4387/Ahmed-Syllabus/tree/main/HW5%20Essay))
+
 ## Links 
 - [Syllabus](https://docs.google.com/document/d/10oSBZbcdeVWcwKRMsuEoegaglVMfXxisCKBqXi1y7dg/edit#heading=h.wkbtxxjrjn87)
 - [Grid](https://docs.google.com/spreadsheets/d/1yWwf-fh3PES6CIb6Tr_0IHoXCXhu7YPrcLnqztgNYm0/edit?gid=0#gid=0)
+- [ESSAY-1](https://docs.google.com/document/d/1ylT4trtCpMn4WUk3uHZyCcV_PPUi-Bfh8NGzd58L748/edit?usp=sharing)
 
 ![Giphy](https://media.giphy.com/media/26u6dIwIphLj8h10A/giphy.gif)
