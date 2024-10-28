@@ -16,6 +16,9 @@
 ### HW-5
 - [Essay 1](https://github.com/bennColl-cs4387/Ahmed-Syllabus/tree/main/HW5%20Essay)
 
+### HW-6
+- [Group fix](https://github.com/bennColl-cs4387/Ahmed/tree/main/HW%206%20Group%20FIX)
+
 ## Links 
 - [Syllabus](https://docs.google.com/document/d/10oSBZbcdeVWcwKRMsuEoegaglVMfXxisCKBqXi1y7dg/edit#heading=h.wkbtxxjrjn87)
 - [Grid](https://docs.google.com/spreadsheets/d/1yWwf-fh3PES6CIb6Tr_0IHoXCXhu7YPrcLnqztgNYm0/edit?gid=0#gid=0)
