@@ -30,23 +30,17 @@ The solution involves modifying Matplotlib’s backend to recognize `.avif` as a
 
 4. **Test the Implementation**:
    - After making these changes, we test the updated `savefig` function.
+  
 
-### Code Changes
+### what I did so far
+```python
+  print_jpg.__doc__, print_tif.__doc__, print_webp.__doc__ = map(
+    def print_avif(self, filename_or_obj, *, metadata=None, pil_kwargs=None):
+    self._print_pil(filename_or_obj, "avif", pil_kwargs, metadata)
 
-1. **Updating Supported Formats**:
 
-   ```python
-   # In backend_agg.py or similar file where savefig is implemented
+    print_jpg.__doc__, print_tif.__doc__, print_webp.__doc__, print_avif.__doc__ = map(
+        """
+```
 
-   # Add 'avif' to the list of formats supported by savefig
-   supported_formats = ["png", "pdf", "ps", "eps", "svg", "webp", "avif"]
-   ```
-
-2. **Handling AVIF in `savefig`**:
-
-   ```python
-   # Add a condition in savefig to handle .avif format
-   if format == 'avif':
-       figure.savefig('figure.avif', format='avif')
-   ```
-
+[my fork](https://github.com/matplotlib/matplotlib/compare/main...ahmed-esh:matplotlib:%2328809%2C-Adding-AVIF?expand=1)
