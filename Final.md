@@ -1,6 +1,10 @@
 
 
 #### **Bio**  
+- [My LinkedIn](https://www.linkedin.com/in/ahmed-shuwehdi-5130a819b/)
+- [My GitHub](https://github.com/ahmed-esh)
+- [My Website](https://ahmedesh.com)
+
  a senior studying film, computer science, and animation. My creative focus lies in using technology, like AR, VR, and video art, to tell compelling stories, particularly those addressing political and cultural themes. I took this class to learn more about the philosophy and practices of open source software, as well as to contribute to impactful collaborative projects. I believe the skills and knowledge gained here will enhance my technical and artistic endeavors.
 
 ---
