@@ -16,15 +16,17 @@
      - **Report**: [Report 3](https://github.com/bennColl-cs4387/Ahmed/blob/main/assignments/solo-fixes/youtubeexplode-782/Report%203.md)
 
 2. **Second Solo Fix Attempt**  
-   Unfortunately, I was unable to complete my second solo fix for YouTubeExplode ([Issue #782](https://github.com/bennColl-cs4387/Ahmed/blob/main/assignments/solo-fixes/youtubeexplode-782/Report%202.md)). This issue was more complex than anticipated, and despite my efforts, I couldn't arrive at a satisfactory resolution within the given timeframe. While it was disappointing, this experience underscored the challenges of working on intricate codebases and highlighted areas where I need to improve.
-     - **Report**: [Report 2](https://github.com/bennColl-cs4387/Ahmed/blob/main/assignments/solo-fixes/youtubeexplode-782/)
+   Unfortunately, I was unable to complete my second solo fix for YouTubeExplode ([Issue #782]. This issue was more complex than anticipated, and despite my efforts, I couldn't arrive at a satisfactory resolution within the given timeframe. While it was disappointing, this experience underscored the challenges of working on intricate codebases and highlighted areas where I need to improve.
+   
+     - **Report**: [Report 2](https://github.com/bennColl-cs4387/Ahmed/blob/main/assignments/solo-fixes/youtubeexplode-782/Report%202.md)
 
 
 ---
-
 #### **Group Fix**  
-**Unity Kinect V1 SDK Improvement**  
+**Unity Kinect V1 SDK Improvement**
 Unfortently my group was dissolved as Rifat left so I counitued woriking on fixiing Unity Kinect V1 SDK ([GitHub link](https://github.com/ahmed-esh/Unity-kinect-V1-SDK)). This project involved fixing compatibility issues between Kinect input data and Unity’s engine. The fix required integrating the Kinect SDK to improve hand tracking and event detection.
+
+
 ---
 
 #### **Essay Reference**  
